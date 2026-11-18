@@ -56,3 +56,10 @@ Ownership is settled: houseCARL owns the runtime-layer reader, the SkyPatcher ta
 (`decisions.md`, 2026-10-31); spec those steps against the capability, not today's calls.
 houseCARL 2.2.0 shipped those readers (2026-11-18): [`recon/coverage/N3-N5-housecarl-2.2.0-recheck.md`](recon/coverage/N3-N5-housecarl-2.2.0-recheck.md).
 N2's open question was probed live the same day: [`recon/coverage/N2-coverage-diff-probe.md`](recon/coverage/N2-coverage-diff-probe.md).
+
+### Dependency noticed 2026-11-18 (Aaron)
+
+| # | Item | Why | Source |
+|---|---|---|---|
+| X1 | **Track `authoria-design` `aspects/requiem-patching/` wave 2 (H1–H5)** | If the Reqtificator becomes a Synthesis / SKSE stack, the build-boundary facts change. The spec isolates them (decisions.md 2026-11-18) | authoria-design PLAN.md / DECISIONS.md, 2026-11-17 |
+| X2 | **Source the boundary facts from `authoria-domain-knowledge` `knowledge/requiem/reqtificator.md`** (wave 1, PR 61), not from `dev/reference/reqtificator-rules.md` alone | It's the newer, source-checked study; reconcile the two at spec time | same |

@@ -158,3 +158,11 @@ Append-only. Never edit a past entry; supersede it with a new one.
   the pack "as you need to". The parked 1.x copy was deleted, and the 1.x pack (1.10.0) was installed from the GitHub
   marketplace on Claude Code and Codex: `recon/hosts/A8-A9-live-pass.md`. CLAUDE.md step 0 is not yet changed; the
   install skews B1–B4 and no-skill runs until it is removed. (Aaron)
+- **The 1.x pack is uninstalled again** on both hosts (Aaron, same day), so B1–B4 and no-skill runs are clean.
+  The GitHub marketplace entries stay registered; nothing is installed from them. (Aaron)
+- **The rebuild proceeds alongside `authoria-design` `aspects/requiem-patching/` wave 2** (Heisen's hypothesis:
+  Reqtificator as a Synthesis pipeline, Requiem without `Requiem for the Indifferent.esp`, some work moved to SKSE).
+  The spec keeps the build-boundary facts in one place, sourced from `authoria-domain-knowledge`
+  `knowledge/requiem/reqtificator.md`, so a wave-2 outcome replaces that one file and nothing else. The router
+  states the boundary as "what the build does", not as the Reqtificator's internals. (Aaron: "follow the plan",
+  taken as the recommended option)
