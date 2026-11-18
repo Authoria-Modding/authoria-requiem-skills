@@ -59,7 +59,8 @@ boundary facts.
 ### B. Aaron's own patching sessions (intent open question 5)
 
 Aaron patches real mods for ARR with Claude in the normal interactive way. Planned: an armour mod
-and a quest mod. Each session keeps a **decision log**: one file in the work folder, appended as
+and a quest mod. Protocol, kickoff prompt and log template: [`recon/sessions/README.md`](recon/sessions/README.md)
+(2026-11-18). Each session keeps a **decision log**: one file in the work folder, appended as
 the session runs. Each entry holds:
 
 - the question;
