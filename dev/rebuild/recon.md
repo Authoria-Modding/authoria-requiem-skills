@@ -116,6 +116,7 @@ runs.**
 
 | Target | Note |
 |---|---|
+| A6 | [`recon/tools/A6-tool-traps.md`](recon/tools/A6-tool-traps.md) (2026-11-18, houseCARL 2.2.0): T1, T2 skill-induced (delete the rules); T3 non-problem; T4 a real gap, closed in 2.2.0; T5 still a real gap (issue drafted, not filed). Corrects DISTILLATION §3e on T2 "lost ops" and T3 "failed" |
 | A7 | [`recon/anthropic/A7-install-path-and-plugin-hooks.md`](recon/anthropic/A7-install-path-and-plugin-hooks.md) |
 | B5 | [`recon/arr-domains/B5-arr-patch-domains.md`](recon/arr-domains/B5-arr-patch-domains.md) |
 | B6 | [`recon/arr-domains/B6-conventions-not-covered.md`](recon/arr-domains/B6-conventions-not-covered.md) |
@@ -137,5 +138,6 @@ runs.**
 | D (split hunt 12: MAGIC / RACE open calls) | [`recon/splits/12-magic-race-calls.md`](recon/splits/12-magic-race-calls.md): one resist source per creature, the mod's own profile wins (363/404); Resist Damage dropped under an Armor trait; MGEF tags by archetype on player spells; tomes on the MR ladder |
 | D (split hunt 13: LOCKS / CONSUMABLES / QUEST-MISC calls) | [`recon/splits/13-locks-consumables-quest-calls.md`](recon/splits/13-locks-consumables-quest-calls.md): artifact-chest filler strip; Xarrian on wooden chests; potions NoAutoCalc; gravity on the material ladder; Respawns copies the modelled vanilla container |
 | D (NPC stage-2 family verification) | [`recon/splits/14-npc-stage2-family-verification.md`](recon/splits/14-npc-stage2-family-verification.md): Bruma copies a role-picked Requiem donor's whole stat block (467/541); Level WRONG as stated, skills / offsets / ActorEffect confirmed; families ≥98.8% Bruma |
+| N2 (coverage diff) | [`recon/coverage/N2-coverage-diff-probe.md`](recon/coverage/N2-coverage-diff-probe.md) (2026-11-18, houseCARL 2.2.0, The Rot Below): unpatched set in 1 call; reads give a mechanical reason for 45% of it, a type list 13%, about 42% needs judgement; a script would only join answers |
 | Suspected bugs | [`recon/suspected-bugs.md`](recon/suspected-bugs.md): candidates from the census and all split hunts, to re-verify before filing in arr-release |
 | Questions for the list authors | [`recon/questions-for-list-authors.md`](recon/questions-for-list-authors.md): what the split hunts couldn't settle from records (shareable with Heisen) |
