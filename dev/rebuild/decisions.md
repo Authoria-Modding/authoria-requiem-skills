@@ -154,3 +154,7 @@ Append-only. Never edit a past entry; supersede it with a new one.
   `housecarl_layer` reading SkyPatcher, SPID, KID, BOS and FLM with `plugins=` / `formids=` line selection. Graded and
   B1–B4 runs that measure asset or runtime calls can run on 2.2.0, and the spec can name real calls. Live recheck:
   `recon/coverage/N3-N5-housecarl-2.2.0-recheck.md`. (condition met, not a new ruling)
+- **The no-install hold is lifted for the A8 / A9 live pass.** Aaron cleared removing the old skills and installing
+  the pack "as you need to". The parked 1.x copy was deleted, and the 1.x pack (1.10.0) was installed from the GitHub
+  marketplace on Claude Code and Codex: `recon/hosts/A8-A9-live-pass.md`. CLAUDE.md step 0 is not yet changed; the
+  install skews B1–B4 and no-skill runs until it is removed. (Aaron)
