@@ -21,19 +21,24 @@ first an armour mod, then a quest mod. Each session keeps a decision log, which 
       change, so it also gets a ledger line in the open release's `CHANGES.md`.
 - [ ] **The mod:** new to the list, not yet patched, enabled in the list profile.
 
-## Kickoff prompt (paste into a fresh session opened in the task folder)
+## How to run it (Aaron, 2026-11-18)
 
-> Patch `<mod>` for Requiem for the ARR list, through houseCARL, the way you would without any Requiem skill. Work
-> in three phases and stop between them for me:
-> 1. Understand the whole mod first: every record, script, asset and runtime-layer line it ships. Tell me what it
->    adds, and what needs a Requiem decision.
-> 2. Give me a decision list of every judgement call, with your recommendation and the evidence for it. I choose.
-> 3. Write the patch into a new plugin.
->
-> Keep a decision log in `decision-log.md` in this folder. Append one entry per decision as we go, in the format
-> below. Also log anything I had to tell you that you didn't know.
+- **The goal is a correct patch, made the way Aaron normally works.** Guide the agent as much as the patch needs.
+  The guidance is the data.
+- **Let the agent go first on each call, then correct it.** Don't front-load house rules at the start, or the log
+  can't show what the agent lacked.
+- **Don't tell the agent it's a test, and don't ask it to keep a log.** Being told it's a test changes how it
+  behaves. Its own log would be self-grading (intent C9).
+- Afterwards, Aaron names the session. A fresh-context agent reads the transcript and writes the decision log in the
+  format below, and Aaron checks it. Aaron's own one-line notes on calls that mattered are optional.
 
-## Decision log entry format
+Suggested opening (adjust to how Aaron would really start):
+
+> Patch `<mod>` for Requiem for the ARR list, through houseCARL. First understand the whole mod (records, scripts,
+> assets, runtime-layer lines) and tell me what needs a Requiem decision, with your recommendation for each. Then
+> we agree the calls, then you write the patch into a new plugin.
+
+## Decision log entry format (written from the transcript)
 
 ```markdown
 ### D<n>: <short question>
@@ -48,8 +53,8 @@ first an armour mod, then a quest mod. Each session keeps a decision log, which 
 
 ## After each session
 
-1. Copy `decision-log.md` here as `B-<armour|quest>-<mod-slug>.md`, with an authorship stamp and no local paths
-   (public repo).
+1. A fresh-context agent mines the transcript into `B-<armour|quest>-<mod-slug>.md` here, with an authorship stamp
+   and no local paths (public repo). Aaron checks it. The raw transcript stays local.
 2. Add a short "what it shows" note at the top: recurring calls, what was missing, what the dissection caught or
    missed, and the house conventions decided.
 3. Add a line to the findings index in `../../recon.md`.
