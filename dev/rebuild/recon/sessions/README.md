@@ -63,5 +63,5 @@ Suggested opening (adjust to how Aaron would really start):
 
 | Session | Mod | Log | Status |
 |---|---|---|---|
-| Armour | *to choose* | | not started |
+| Armour | Bloodline (run 2026-11-18 in `arr-personal`, Aaron's personal playthrough) | `B-armour-bloodline.md` (to write) | session done; transcript not mined |
 | Quest | *to choose* | | not started |
