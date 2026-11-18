@@ -8,6 +8,12 @@
 
 **95 candidates: 15 CONFIRMED, 80 PLAUSIBLE.** Plus 3 errors in our own docs (last section).
 
+> [!note] Re-verified 2026-11-18
+> Every row was re-read live on houseCARL 2.2.0: [`suspected-bugs-recheck-2026-11-18.md`](suspected-bugs-recheck-2026-11-18.md).
+> 28 confirmed rows (plus 3 Rot Below leads among them) are filed in arr-release `BUGS.md` as one entry, the
+> 2026-11-18 one. Many rows were cleared or recast as intended. The labels in the tables below are the 2026-10-31
+> ones; the recheck supersedes them.
+
 **Filed in `BUGS.md` so far:** the Bruma master patch dropping Master Trader gold from 3 inn chests (from the
 questions doc, Q44; not in the tables below), filed 2026-10-31. Heisen's answers recast several rows as exceptions
 or "not found in game" (Q9, Q11, Q12, Q35, Q39). Re-check those against his answers before filing them.
