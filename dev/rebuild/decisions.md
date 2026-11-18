@@ -146,3 +146,11 @@ Append-only. Never edit a past entry; supersede it with a new one.
   resting on record reads and `asset_status` selection (provider, `under=`, globs, `counts_only`) proceeds now; the
   walk's parameters, `skse` config and `skypatcher_layer` filtering, `decompile_script` input and the `links=` render
   will change shape, so don't hard-code them. (houseCARL advisor, 2026-10-31)
+
+## 2026-11-18
+
+- **The 2026-10-31 houseCARL holds are met.** houseCARL 2.2.0 (released and installed 2026-11-18) ships the whole
+  asset-layer plan: `@file` everywhere, shared selectors (`decompile_script provider=`), one walk grammar, and
+  `housecarl_layer` reading SkyPatcher, SPID, KID, BOS and FLM with `plugins=` / `formids=` line selection. Graded and
+  B1–B4 runs that measure asset or runtime calls can run on 2.2.0, and the spec can name real calls. Live recheck:
+  `recon/coverage/N3-N5-housecarl-2.2.0-recheck.md`. (condition met, not a new ruling)
