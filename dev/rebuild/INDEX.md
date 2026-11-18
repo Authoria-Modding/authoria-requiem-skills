@@ -15,7 +15,9 @@ in `decisions.md`, and each split's fate is in `recon/splits/README.md`. Aaron s
 trigger-eval setup and Q29 the same day (`decisions.md`): the new skills are graded against the spec,
 not against 1.x. Codex support and an installable release were added as targets A8 / A9
 (desk pass done; live pass open). Still open: A6, A8 / A9 live, the spec-session topics in `carried-forward.md`, and the targets that
-need Aaron's own patching sessions. The latest handoff in `../handoffs/` says where to pick up.
+need Aaron's own patching sessions. **2026-11-18:** houseCARL 2.2.0 shipped the asset and runtime-layer redesign this
+project was waiting on, so the holds are met (`decisions.md`) and B1–B4 and graded runs are unblocked. The latest handoff
+in `../handoffs/` says where to pick up.
 
 ## Where things live
 
