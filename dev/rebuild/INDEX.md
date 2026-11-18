@@ -16,7 +16,8 @@ trigger-eval setup and Q29 the same day (`decisions.md`): the new skills are gra
 not against 1.x. Codex support and an installable release were added as targets A8 / A9
 (desk pass done; live pass open). Still open: A6, A8 / A9 live, the spec-session topics in `carried-forward.md`, and the targets that
 need Aaron's own patching sessions. **2026-11-18:** houseCARL 2.2.0 shipped the asset and runtime-layer redesign this
-project was waiting on, so the holds are met (`decisions.md`) and B1–B4 and graded runs are unblocked. The latest handoff
+project was waiting on, so the holds are met (`decisions.md`) and B1–B4 and graded runs are unblocked. A6 and the N2
+coverage-diff probe ran the same day on 2.2.0 (`recon.md` findings index). The latest handoff
 in `../handoffs/` says where to pick up.
 
 ## Where things live
@@ -29,7 +30,7 @@ in `../handoffs/` says where to pick up.
 | `plan.md` | Stage 4: order of work citing requirements, risks, proof, rollback (created when the stage starts) |
 | `decisions.md` | Every gate and decision, dated, append-only |
 | `eval-2026-10/` | Recon pass 1: the control eval, public summary (plan, results, drill rounds, distillation) |
-| `recon/` | Recon pass 2: `anthropic/` (A1–A7), `hosts/` (A8, A9), `coverage/` (N3–N5 live probe on 2.1.2, recheck on 2.2.0), `arr-domains/` (B5, B6), `census/`, `splits/` (01–14), `questions-for-list-authors.md`, `suspected-bugs.md` |
+| `recon/` | Recon pass 2: `anthropic/` (A1–A7), `hosts/` (A8, A9), `coverage/` (N2 coverage-diff probe; N3–N5 live probe on 2.1.2, recheck on 2.2.0), `tools/` (A6), `arr-domains/` (B5, B6), `census/`, `splits/` (01–14), `questions-for-list-authors.md`, `suspected-bugs.md` |
 | `carried-forward.md` | Open 1.x issues and backlog items, kept as spec inputs |
 | `../handoffs/` | Session handoffs (this repo's lane) |
 

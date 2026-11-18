@@ -55,3 +55,4 @@ houseCARL 2.1.2 gives for each (2026-10-31): [`recon/coverage/N3-N5-scripts-asse
 Ownership is settled: houseCARL owns the runtime-layer reader, the SkyPatcher target filter and batch decompile
 (`decisions.md`, 2026-10-31); spec those steps against the capability, not today's calls.
 houseCARL 2.2.0 shipped those readers (2026-11-18): [`recon/coverage/N3-N5-housecarl-2.2.0-recheck.md`](recon/coverage/N3-N5-housecarl-2.2.0-recheck.md).
+N2's open question was probed live the same day: [`recon/coverage/N2-coverage-diff-probe.md`](recon/coverage/N2-coverage-diff-probe.md).
