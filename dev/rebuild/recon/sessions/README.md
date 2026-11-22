@@ -63,5 +63,5 @@ Suggested opening (adjust to how Aaron would really start):
 
 | Session | Mod | Log | Status |
 |---|---|---|---|
-| Armour | Bloodline (run 2026-11-18 in `arr-personal`, Aaron's personal playthrough) | `B-armour-bloodline.md` (to write) | session done; transcript not mined |
+| Armour | Bloodline (run 2026-11-18 in `arr-personal`, Aaron's personal playthrough, `ARR Personal Profile`) | [`B-armour-bloodline.md`](B-armour-bloodline.md) (30 decisions + houseCARL tool-use audit) | mined 2026-11-19, checked by Aaron |
 | Quest | *to choose* | | not started |

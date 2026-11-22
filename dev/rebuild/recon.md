@@ -120,6 +120,7 @@ runs.**
 | A6 | [`recon/tools/A6-tool-traps.md`](recon/tools/A6-tool-traps.md) (2026-11-18, houseCARL 2.2.0): T1, T2 skill-induced (delete the rules); T3 non-problem; T4 a real gap, closed in 2.2.0; T5 still a real gap (issue drafted, not filed). Corrects DISTILLATION §3e on T2 "lost ops" and T3 "failed" |
 | A8 / A9 live | [`recon/hosts/A8-A9-live-pass.md`](recon/hosts/A8-A9-live-pass.md) + [`A8-A9-docs-recheck.md`](recon/hosts/A8-A9-docs-recheck.md) (2026-11-18): one repo installs on both hosts with the Claude manifests; `plugin:skill` on both; GPT triggers right but made two stance errors on a real task; Claude Code headless trigger runs blocked on CLI login |
 | A7 | [`recon/anthropic/A7-install-path-and-plugin-hooks.md`](recon/anthropic/A7-install-path-and-plugin-hooks.md) |
+| B1–B4 (armour) | [`recon/sessions/B-armour-bloodline.md`](recon/sessions/B-armour-bloodline.md) (2026-11-19, Bloodline, personal profile): 30 decisions; what Aaron supplied was domain knowledge (UBE revealing slots, list slot usage, no temper on AR 0), never method; houseCARL navigation good with no skills, misuses are habits (RFI as comparable source, partial-query absence claims, unasked consent gate); one confirmed defect (temper lost the enchanted OR-condition) |
 | B5 | [`recon/arr-domains/B5-arr-patch-domains.md`](recon/arr-domains/B5-arr-patch-domains.md) |
 | B6 | [`recon/arr-domains/B6-conventions-not-covered.md`](recon/arr-domains/B6-conventions-not-covered.md) |
 | D (method) | [`recon/census/method.md`](recon/census/method.md) |
