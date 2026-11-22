@@ -166,3 +166,20 @@ Append-only. Never edit a past entry; supersede it with a new one.
   `knowledge/requiem/reqtificator.md`, so a wave-2 outcome replaces that one file and nothing else. The router
   states the boundary as "what the build does", not as the Reqtificator's internals. (Aaron: "follow the plan",
   taken as the recommended option)
+
+## 2026-11-22
+
+- **Hypothesis under test, not yet a decision: the deliverable may be a public ARR domain-knowledge library, not a
+  skill pack.** From the armour session (`recon/sessions/B-armour-bloodline.md`): with no skills loaded, the agent
+  never needed teaching *how* to patch. Everything Aaron had to supply was knowledge of how something in the list
+  works: UBE's revealing-slot convention, which slots the list's cloak / lantern / waterskin mods occupy, no tempering
+  on AR-0 pieces. Where it had that knowledge (Aaron's earlier task notes, the list's own KID file), it did the job.
+  Aaron: "we don't need skills that teach an agent how to do a task, we need a library of domain knowledge that is
+  recallable when needed", and he is "99% sure" of it. What the session does **not** settle: a mod with no
+  precedent to copy, and whether an agent finds the right doc when it matters (recall). The houseCARL habits it got
+  wrong (comparables read from RFI, absence claims from partial queries) are houseCARL's to teach, not this repo's.
+  **Test:** the quest session (B, second), run as a baseline (list profile, no skills, no new docs); its mining sorts
+  each thing Aaron supplies into knowledge / taste / tool habit. **Not yet decided:** where the library lives
+  (`authoria-domain-knowledge` is private and team-shared; a public repo needs Heisen's say and a hygiene pass; list
+  specifics may be `authoria-design`'s "list decisions"), and what this repo becomes. Spec work waits on the quest
+  session. (Aaron)
