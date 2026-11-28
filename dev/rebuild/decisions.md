@@ -183,3 +183,30 @@ Append-only. Never edit a past entry; supersede it with a new one.
   (`authoria-domain-knowledge` is private and team-shared; a public repo needs Heisen's say and a hygiene pass; list
   specifics may be `authoria-design`'s "list decisions"), and what this repo becomes. Spec work waits on the quest
   session. (Aaron)
+
+## 2026-11-27
+
+- **Reframed: this project is Aaron's own experimentation for now, not a public product.** Given what agents now
+  need compared with when the 1.x skills were written, Aaron is not building toward a shipped pack at present. So the
+  B-session protocol's **list-profile requirement is dropped**: sessions on `ARR Personal Profile` and in
+  `arr-personal` are valid evidence ("I am not working on the list profile, there is no point"). The arr-release task
+  and ledger steps in `recon/sessions/README.md` no longer apply. (Aaron)
+- **The quest-mod test is the Amorous Adventures job** (Aaron's multi-session personal patch, 2026-11-26 to 27, 18
+  sessions, no skills loaded), in place of a separately run quest session. It is mined into
+  `recon/sessions/B-quest-amorous-adventures.md` to test the 2026-11-22 hypothesis. (Aaron)
+
+## 2026-11-28
+
+- **The 2026-11-22 hypothesis is settled, in a sharper form.** Skills that teach a task matter very little now. What
+  makes a job work is what the human brings:
+  - **list knowledge**: knowing what's in the list, so the agent gets pointed at the systems that matter, including
+    non-obvious ones (OStim Solutions in the AA job);
+  - **a feel for how big the job is**: split it, shape it, make it check itself.
+
+  "Domain knowledge" means knowledge of *our list*, which lives with the list authors, not general Skyrim
+  knowledge. Recall of knowledge docs is not the bottleneck: agents rightly prefer the live list. What durable shape
+  list knowledge should take, as the next list is built from scratch, is open; nobody has done this before. (Aaron)
+- **This repo's purpose has changed: it is now a research record** of how Aaron and Heisen can best work with AI to
+  develop the next list. It is not a skill pack for users. The working conclusions for the two of them live in
+  `authoria-handbook/Research/2026-11-28-working-with-ai-on-the-list.md` (team repo). The rebuild's spec and build
+  stages are not going ahead as planned. (Aaron, with Heisen's shared view)

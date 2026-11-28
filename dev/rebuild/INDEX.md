@@ -20,7 +20,12 @@ project was waiting on, so the holds are met (`decisions.md`) and B1–B4 and gr
 coverage-diff probe ran the same day on 2.2.0 (`recon.md` findings index). **2026-11-22:** the armour session is
 mined (`recon/sessions/B-armour-bloodline.md`). It raised a **hypothesis under test that may change the project's
 premise**: what an agent lacks is recallable domain knowledge, not task skills (`decisions.md` 2026-11-22). The quest
-session tests it. The latest handoff
+session tests it. **2026-11-28: the premise changed.** The quest job (Amorous Adventures,
+`recon/sessions/B-quest-amorous-adventures.md`) settled it: task skills matter very little, and what a job needs is
+list knowledge plus a feel for how big it is, both from the human. This repo is now a **research record** of how Aaron
+and Heisen work with AI on the next list. The spec and build stages are not going ahead as planned (`decisions.md`
+2026-11-28). The working conclusions are in `authoria-handbook/Research/2026-11-28-working-with-ai-on-the-list.md`.
+The latest handoff
 in `../handoffs/` says where to pick up.
 
 ## Where things live
