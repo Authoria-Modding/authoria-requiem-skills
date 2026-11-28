@@ -64,4 +64,7 @@ Suggested opening (adjust to how Aaron would really start):
 | Session | Mod | Log | Status |
 |---|---|---|---|
 | Armour | Bloodline (run 2026-11-18 in `arr-personal`, Aaron's personal playthrough, `ARR Personal Profile`) | [`B-armour-bloodline.md`](B-armour-bloodline.md) (30 decisions + houseCARL tool-use audit) | mined 2026-11-19, checked by Aaron |
-| Quest | *to choose* | | not started |
+| Quest | Amorous Adventures (OStim port + 6 plugins), 18 sessions 2026-11-26 to 27 in `arr-personal`, personal profile | [`B-quest-amorous-adventures.md`](B-quest-amorous-adventures.md) (synthesis of 9 slice miners; slice files kept local with the job) | mined 2026-11-27, awaiting Aaron's check |
+
+*From 2026-11-27 the list-profile and arr-release steps above no longer apply: this is Aaron's own experimentation
+(`../../decisions.md` 2026-11-27).*
